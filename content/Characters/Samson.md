@@ -14,7 +14,7 @@ Without a word to his previous employers, he disappeared into the wider world. 
 
 Good? ... bad? ... he was the guy with the gun. That's all that really matters, right?
 ## Stats
-| AC  | [[../Mechanics/Efficiency]] | Max HP | Proficiency | Speed | Hit Dice |
+| AC  | [[Efficiency]] | Max HP | Proficiency | Speed | Hit Dice |
 | :-: | -------------- | ------ | ----------- | ----- | -------- |
 | 13  | 2              | 33     | +2          | 30    | 3D10+3   |
 

@@ -9,7 +9,7 @@
   "homepage": "https://zadiagirl.github.io/Demon-Punks",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ZadiaGirl/Demon-Punks"
+    "url": "https://github.com/ZadiaGirl/Demon-Punks.git"
   },
   "scripts": {
     "quartz": "./quartz/bootstrap-cli.mjs",

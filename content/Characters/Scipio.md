@@ -2,7 +2,7 @@
 
 Wiry guy with blue eyes, wearing all black, almost always wears a mask over his face. He grew up as an orphan on the streets raising his 5 younger siblings, stealing to get by, and living out of an abandoned school. Scipio became a demon hunter to make a better life for himself, as he made a vow to make sure the kids are always fed.
 ## Stats
-| AC  | [[../Mechanics/Efficiency]] | Max HP | Proficiency | Speed | Hit Dice |
+| AC  | [[Efficiency]] | Max HP | Proficiency | Speed | Hit Dice |
 | :-: | -------------- | ------ | ----------- | ----- | -------- |
 | 15  | +1             | 23     | +2          | 30    | 3d6+3    |
 

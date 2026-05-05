@@ -1,6 +1,3 @@
-The base is located in the slums of [[Hallstat]]. 
-
-# Base Upgrades
 -  Priming station (400gp): 
 	- Lv 1: Increase your weapon by the +1
 	- Lv 2: Increase the damage bonus to 1d4

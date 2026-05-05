@@ -1,5 +1,5 @@
 ## Stats
-| AC  | [[../Mechanics/Efficiency]] | Max HP  | Proficiency | Speed | Hit Dice |
+| AC  | [[Efficiency]] | Max HP  | Proficiency | Speed | Hit Dice |
 | :-: | -------------- | ------- | ----------- | ----- | -------- |
 | 14  | +7             | 29 (39) | +2          | 30    | 3D12+3   |
 
