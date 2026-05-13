@@ -16,8 +16,8 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "zadiagril.github.io/Demon-Punks",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    baseUrl: "zadiagirl.github.io",
+    ignorePatterns: ["Private", "Templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",

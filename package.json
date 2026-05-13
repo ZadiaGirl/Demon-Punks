@@ -1,12 +1,12 @@
 {
-  "name": "@zadiaGril/Demon-Punks",
+  "name": "@ZadiaGirl/Demon-Punks",
   "description": "🌱 publish your digital garden and notes as a website",
   "private": true,
-  "version": "1.0.0",
+  "version": "0.1.0",
   "type": "module",
-  "author": "Zadia K <zadiatgirl@gmail.com>",
-  "license": "Z",
-  "homepage": "zadiagirl.github.io/Demon-Punks",
+  "author": "Zadia <zadiatgirl@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://zadiagirl.github.io/Demon-Punks",
   "repository": {
     "type": "git",
     "url": "https://github.com/ZadiaGirl/Demon-Punks.git"
