@@ -6,12 +6,11 @@ Efficiency is the measurement of a persons aptitude to bond and control their mo
 
 | Efficiency Score | DC  |
 | :--------------: | --- |
-|        0         | 20  |
-|        1         | 19  |
-|       2-3        | 18  |
-|       4-5        | 17  |
-|       6-7        | 16  |
-|        8         | 15  |
-|        9         | 14  |
-|        10        | 13  |
+|       0-1        | 20  |
+|       2-3        | 19  |
+|       4-5        | 18  |
+|       6-7        | 17  |
+|        8         | 16  |
+|        9         | 15  |
+|        10        | 14  |
 

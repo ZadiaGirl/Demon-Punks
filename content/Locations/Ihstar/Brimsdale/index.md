@@ -1,11 +1,8 @@
 ---
-tags:
-  - location
+title: Brimsdale
 ---
 
 Brimsdale is the main mining and smithing center of [[Ishtar]]. Metals for mods, weapons, and other industrial products.
+# Brimsdale
+- [[The Shack]]
 
-Inn's of Brimsdale:
-- Salted Dragon Cafe
-- Ivory Palace
-- The Shack

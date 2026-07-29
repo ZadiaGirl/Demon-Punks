@@ -1,1 +1,6 @@
+---
+tags:
+  - NPC
+---
+
 A quirky antiquity dealer, that sells various exotic goods. He is short and stocky, with a big thick beard. 

@@ -1,5 +1,8 @@
+---
+title: Player Base
+---
 -  Priming station (400gp): 
-	- Lv 1: Increase your weapon by the +1
+	- Lv 1: Increase your weapon by +1
 	- Lv 2: Increase the damage bonus to 1d4
 	- Lv 3 (1000gp): increase the damage to 1d6 per Lv past 3. 
 - Medical Bay (1,000gp): 
@@ -10,5 +13,6 @@
 	- Lv 1: You can deposit gold into the bank. You gain 5% interest after the money has been deposited for 3 sessions.   
 	- Lv 2 (1,000gp): 10% Interest.
 	- Lv 3 (1,500gp): 20%
-- [[Demon Research Bay]] (750gp):
-	- Lv 1: You can extract simple parts and materials from demons. These can be used to create items, mods, and weapons. 
+# Player Base
+- [[Demon Research Bay]]
+

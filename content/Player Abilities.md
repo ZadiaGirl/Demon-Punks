@@ -64,7 +64,7 @@
 - Expertise (2pt)
 	- [ ] Gain 2 expertise. 
 - Fast Hands (1pt)
-	- [ ] Reload as a bonus action
+	- [ ] Ignore the loading property on guns. 
 - Health Increase (2pt)
 	- [ ] Increase your Max HP by hit die + con per
 - Skill Boost (2pt)

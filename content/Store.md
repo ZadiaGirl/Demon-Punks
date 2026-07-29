@@ -2,28 +2,28 @@
 # Weapons
 
 ## Guns
-|        Name         | Skill | Damage | Range | Mag Size | Properties                                                   | Price |
-| :-----------------: | ----- | ------ | ----- | -------- | ------------------------------------------------------------ | ----- |
-| Pump Action Shotgun | Str   | 1d10   | 30'   | 4        |                                                              |       |
-|     BlunderBuss     | Str   | 2d6    | 15'   | 1        |                                                              | 150gp |
-| Lever-Action Riffle | Dex   | 1d8    | 60'   | 6        |                                                              |       |
-|                     |       |        |       |          |                                                              |       |
-|       Sniper        | Dex   | 2d8    | 240'  | 3        | Has disadvantage if you move this turn                       | 175gp |
-|       Pistol        | Dex   | 1d4    | 60'   | 12       | You can use your bonus action to make a shot with the pistol |       |
-|                     |       |        |       |          |                                                              |       |
+|           Name            | Skill | Damage | Range | Properties                                                                                         | Price |
+| :-----------------------: | ----- | ------ | ----- | -------------------------------------------------------------------------------------------------- | ----- |
+|    Pump Action Shotgun    | Str   | 1d10   | 30'   |                                                                                                    | 50gp  |
+|          Pistol           | Dex   | 1d4    | 60'   | You can use your bonus action to make a shot with the pistol                                       | 50gp  |
+|        BlunderBuss        | Str   | 2d6    | 15'   |                                                                                                    | 150gp |
+|    Lever-Action Riffle    | Dex   | 1d8    | 60'   |                                                                                                    | 50gp  |
+|          Sniper           | Dex   | 2d8    | 240'  | Has disadvantage if you move this turn                                                             | 175gp |
+| Steam Powered Gatling Gun | Str   | 4d6    | 50'   | Cuts your movement in half. <br>_Loading:_  Must take an action to reload the gun after each shot. | 175gp |
+|   High Pressure Riffle    | Str   | 2d12   | 40'   | _Loading:_ Must take an action to reload the gun after each shot.                                  | 100gp |
 
+# Melee Weapons
 - Three edge sword: 2d6, 100gp
 - Charge Hammer: 1d10, 2d4 60gp, 50gp/5rounds
 - Spiked shield: +2 AC, 1d10 80gp
 
-Med Packs (Lv 1): 30gp
-Med Packs (Lv 2): 45gp
-
-
+# Items
+## [[Med Packs]]
+- Level 1: 30gp 
+- Level 2: 45gp
 # Upgrades
 ## Sights
 - Brass Crosshairs (10gp): +1 to hit
-- 
 - Telescope Attachment (150gp): Advantage on shots made if you do not move on that turn.
 
 - Extended mag: +4 rounds

@@ -1,0 +1,7 @@
+---
+title: Ostrov
+---
+
+# Ostrov
+- [[Goroda]]
+
