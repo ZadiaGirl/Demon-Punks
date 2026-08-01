@@ -23,9 +23,6 @@ Good? ... bad? ... he was the guy with the gun. That's all that really matters, 
 | +1  | +1  | +3  | +2  | +0  | +0  |
 | 13  | 12  | 16  | 14  | 11  | 10  |
 
-| CP  | SP  | GP  | PP  |
-| :-: | :-: | :-: | :-: |
-|     |     | 100 |     |
 ## Proficiencies
 
 |  #  | Prof | Skill           | Ability |

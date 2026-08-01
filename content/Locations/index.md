@@ -6,11 +6,13 @@ title: Locations
 # Locations
 ## Ihstar
 
+- [[site/Locations/Ihstar/Brimsdale/index|Brimsdale]]
 - [[Hallstat]]
 - [[Ohlsdorf]]
 
 ## Kodinsk
 
+- [[Coldar]]
 - [[Kodinsville]]
 
 ## Ostrov

@@ -1,0 +1,1 @@
+Strange Demon dagger found in a silver chest at the bottom of an Icey river that crackles with energy when brought close to the [[Fire Dagger]].

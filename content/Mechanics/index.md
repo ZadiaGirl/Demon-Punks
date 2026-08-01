@@ -7,5 +7,6 @@ title: Mechanics
 - [[Demon Mode]]
 - [[Demonite Units]]
 - [[Efficiency]]
+- [[Resistance]]
 - [[Status Effects]]
 

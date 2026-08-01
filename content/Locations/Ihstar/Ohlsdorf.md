@@ -4,4 +4,4 @@ tags:
 ---
 
 ![[ohlsdorf.png]]
-The largest farming city in [[Ishtar]]. 
+The largest farming city in [[site/NPC/Ishtar/index|Ishtar]]. 

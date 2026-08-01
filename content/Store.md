@@ -34,8 +34,12 @@
 - Stunning jelly rounds (50gp/5 rounds): A target hit with this round must make a DC 15 Con saving throw or become stunned for a round, dropping it to the floor prone.
 - Incendiary rounds (60gp/5rounds): A target hit with this round must make a DC 15 Dex saving throw, taking 1d6 fire damage, the target is caught on flames, taking this damage at the start of each of it's turns. It can make the save again at the end of it's next turn. 
 
+## Melee Upgrades
+- Leather Hand Grips (25gp): +1 to hit
+- Reinforced Metal (50gp): +1d6 damage
+- Spring Handle (100gp): Allow you to make two attacks per attack roll.
 ## Armor 
-- General material: +1 [[Mechanics/Resistance|Resistance]]  
+- General material: +1 [[Resistance|Resistance]]  
 ### Helmet Upgrades
 - Scouts Mark (350gp): Mark a target, the wearer has advantage on attack rolls against the target. 
 - Scouts Mark v2.0 (500gp): Mark a target, the wearer, and any other ally within a 20' radius of you, have advantage on attack rolls against the target. 
@@ -44,7 +48,6 @@
 - Infused Chest Plate (1,000gp): when you take damage, reduce damage by 1d4
 - Force Deduction Plate (1,250gp): when you take damage, reduce the damage by 1d6
 - BrassFiber Nano Tubing (1,000gp): Ultra light wait and enhances your ability to move, and extra resilient. +10' of movement speed
-
 ### Bracers
 - Impact Bracers (500) 2d6
 

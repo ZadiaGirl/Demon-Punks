@@ -9,12 +9,17 @@ title: NPC
 - [[Avarice]]
 - [[Sebastian]]
 
+## Historic
+
+- [[Ichabod Dyancy]]
+- [[Nashton Orvasha]]
+
 ## Ishtar
 
 
 
 ## Order of the Matron
-- 
+
 - [[Arthur  Windstep]]
 - [[Jostin Baleworth]]
 - [[Kaliper Estes]]

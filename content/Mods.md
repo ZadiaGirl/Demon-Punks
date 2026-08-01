@@ -5,7 +5,7 @@
 	- When upgraded, choose the upgrade path from the options below
 		- Electrify (Exclusive): On hit, target must roll a DC 12+efc Con save or be stunned
 		- Fire (Exclusive): Deal an additional 1d6 fire damage.
-		- Poisoned (Exclusive): On hit, target must roll a DC 10+efc Con save or become [[Mechanics/Poisoned|poisoned]]. 
+		- Poisoned (Exclusive): On hit, target must roll a DC 10+efc Con save or become [[Status Effects#Poisoned|Poisoned]]. 
 	- Increase the damage dealt by the blade to 1d8+1.
 		- Electrify: Deal an additional 1d8+1 electric damage
 		- Fire: Deal an additional 1d8+1 fire damage

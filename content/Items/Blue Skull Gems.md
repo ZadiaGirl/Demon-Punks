@@ -1,1 +1,1 @@
-2x small blue crystals found in the skulls surrounding the portal in the basement of _The Ivory Palace_ in [[Brimsdale]]. 
+2x small blue crystals found in the skulls surrounding the portal in the basement of _The Ivory Palace_ in [[site/Locations/Ihstar/Brimsdale/index|Brimsdale]]. 

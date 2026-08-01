@@ -1,1 +1,1 @@
-Deep in the mountains 
+Deep in the mountains, these rare crystals are used in various forms of demon magic, including tracking spells. [[Nyphriana]] told [[Scipio]] that a blood stone is in [[Kodinsville]] that he can use to help track [[Avarice]].

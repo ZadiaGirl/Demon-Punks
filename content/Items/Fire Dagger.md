@@ -1,1 +1,1 @@
-A strange fire dagger, taken from [[Avarice|Avarice's]] hideout in [[Hallstat]]. 
+A strange fire dagger, taken from [[Avarice|Avarice's]] hideout in [[Hallstat]]. It glows brighter when brought close to a source of demon magic.

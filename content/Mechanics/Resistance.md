@@ -1,0 +1,1 @@
+The first time you are damaged in a round, subtract your resistance from the damage.

@@ -3,4 +3,4 @@ tags:
   - NPC
 ---
 
-Mob Boss of the black market in [[Brimsdale]]. Is _working_ with [[Vetements Homme]], using his high end clothing shop as for money laundering, and discreetly moving high value items to purchasers.
+Mob Boss of the black market in [[site/Locations/Ihstar/Brimsdale/index|Brimsdale]]. Is _working_ with [[Vetements Homme]], using his high end clothing shop as for money laundering, and discreetly moving high value items to purchasers.
